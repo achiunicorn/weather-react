@@ -1,0 +1,26 @@
+.Forecast h3 {
+  text-transform: uppercase;
+  font-style: italic;
+  font-size: 18px;
+  font-weight: 600;
+  color: #ec6e4c;
+}
+
+.Forecast .forecast {
+  font-family: "Nunito", sans-serif;
+  margin-left: 20px;
+  margin-right: 10px;
+  font-size: 18px;
+}
+
+.Forecast .forecast-day {
+  padding-top: 20px;
+}
+
+.Forecast .forecast-temp {
+  text-align: right;
+}
+
+.Forecast #forecast-low-temp {
+  opacity: 60%;
+}

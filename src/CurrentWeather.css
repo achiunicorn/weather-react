@@ -1,0 +1,41 @@
+.CurrentWeather .current {
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.CurrentWeather .current-temp {
+  font-family: "Nunito", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  text-align: center;
+  margin: 0;
+  display: inline;
+  vertical-align: middle;
+  padding-left: 30px;
+  color: #48484a;
+}
+
+.CurrentWeather .tempUnit {
+  font-size: 40px;
+  display: inline;
+}
+
+.CurrentWeather .current img {
+  vertical-align: middle;
+  width: 78px;
+}
+
+.CurrentWeather img {
+  width: 70px;
+  margin: 0 auto;
+  display: inline;
+}
+
+.CurrentWeather .current-details {
+  padding: 10px 10px 10px 30px;
+  font-family: "Nunito", sans-serif;
+  font-size: 12px;
+  text-transform: uppercase;
+  line-height: 24px;
+  list-style: none;
+}

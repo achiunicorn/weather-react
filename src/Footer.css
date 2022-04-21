@@ -1,0 +1,10 @@
+.Footer .footer {
+  text-align: center;
+  font-size: 12px;
+  margin-top: 10px;
+  font-family: "Space Mono", monospace;
+}
+
+.Footer .footer a {
+  color: #bb583b;
+}
