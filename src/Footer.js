@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="footer">
         <p>
           <a
-            href="https://github.com/achiunicorn/shecodes-weather-app"
+            href="https://github.com/achiunicorn/weather-react"
             target="_blank"
             title="Link to GitHub repository."
           >
