@@ -8,6 +8,7 @@ export default function Footer() {
           <a
             href="https://github.com/achiunicorn/weather-react"
             target="_blank"
+            rel="noreferrer"
             title="Link to GitHub repository."
           >
             Open Source Code
